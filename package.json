@@ -1,0 +1,9 @@
+{
+  "name": "node_hw",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/logGenerator.js",
+    "analyze": "node src/logAnalyzer.js"
+  }
+}
